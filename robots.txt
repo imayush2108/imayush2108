@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imayush2108.github.io/imayush2108/sitemap.xml
