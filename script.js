@@ -130,7 +130,7 @@
       openLightbox({
         src: "assets/card/ayush-raj-visiting-card.png?v=2",
         title: "Ayush Raj — Official Visiting Card",
-        meta: "IMAYUSH2108 • Web & Digital Creator Studio • Purnia, Bihar",
+        meta: "IMAYUSH2108 • Creative Design & Web Studio • Purnia, Bihar, India",
         url: ""
       });
     };

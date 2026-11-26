@@ -1,0 +1,89 @@
+# IMAYUSH2108 — Ayush Raj Portfolio
+
+Official personal portfolio website of **Ayush Raj (`IMAYUSH2108` / `imayush2108`)**, a **Web Developer & Creative Designer** based in **Purnia, Bihar, India**.
+
+- **Live Website:** https://imayush2108.github.io/imayush2108/
+- **Tagline:** Ideas. Designs. Impact.
+
+---
+
+## Brand & Identity Overview
+
+- **Name:** Ayush Raj
+- **Brand / Handle:** `IMAYUSH2108` (`imayush2108`)
+- **Role:** Web Developer & Creative Designer
+- **Location:** Purnia, Bihar, India
+- **Theme:** Matte black & dark-charcoal (`#070709` / `#0c0c0f`, `#141418` elevated card surfaces) paired with metallic gold (`#eab308` / `#f59e0b`) and crisp white (`#ffffff`) typography.
+
+### About & Positioning
+
+Ayush Raj builds clean, fast, responsive websites and sharp visual creatives designed to help brands stand out on Google and across social media. From responsive web publishing to logos, posters, social ads, video edits, and brand essentials, every deliverable is crafted with clarity, consistency, and care.
+
+---
+
+## Services
+
+1. **01. Website Design & Google Publishing** — Fast, responsive websites built to look sharp on every screen and get your brand found on Google with zero fuss.
+2. **02. Logo Creation** — Bold, memorable logos and monograms crafted to stand out instantly whether they’re on a screen or a card.
+3. **03. Poster Creation** — Eye-catching posters and thumbnails with punchy typography and bold contrast that stop people mid-scroll.
+4. **04. Social Media Advertisement** — Scroll-stopping ad creatives for Instagram, Facebook, and WhatsApp built to grab attention and bring real inquiries.
+5. **05. Video Editing** — Clean cuts, smooth flow, beat-synced pacing, and rich color polish that keep viewers hooked till the last second.
+6. **06. Brand & Print Essentials** — Matching brand visuals and print-ready essentials that keep your identity consistent, sharp, and unmistakable.
+
+---
+
+## Official Certifications
+
+All 5 verified credentials are displayed in the **Official Certifications** section with category filters and full-screen lightbox previews:
+
+1. **Graphic Design Essentials** — Canva Design School (Issued Oct 16, 2026 | Credential ID: `01d2da`)
+2. **Responsive Web Design** — freeCodeCamp Developer Certification (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/responsive-web-design-v9)
+3. **JavaScript Developer Certification** — freeCodeCamp Developer Certification (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/javascript-v9)
+4. **Front-End Development Libraries** — freeCodeCamp Developer Certification (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/front-end-development-libraries-v9)
+5. **Python Developer Certification** — freeCodeCamp Developer Certification (Oct 18, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/python-v9)
+
+---
+
+## Visiting Card & Visual Assets (`assets/`)
+
+- `assets/profile/ayush-raj-profile.png` — Official profile portrait displayed in the **About My Work** section and used for the browser tab favicon and Open Graph / Twitter social previews.
+- `assets/card/ayush-raj-visiting-card.png` — Official **IMAYUSH2108** visiting card showcased in the **Official Visiting Card** section with full-screen zoom modal and direct download support.
+- `assets/logo/ar-brand-logo.png` — Metallic gold **AR** brand emblem used in the navbar and footer.
+- `assets/logo/canva-badge-logo.png` — Canva Certified badge seal used in the hero credential pill.
+- `assets/certificates/` — High-resolution PNG certificates for Canva Design School and freeCodeCamp.
+
+---
+
+## Site Architecture & SEO / Schema
+
+- `index.html` — Semantic single-page portfolio structure:
+  1. Top Sticky Navbar (`AR` + `IMAYUSH2108`, section navigation, availability indicator, `Contact` button, mobile drawer)
+  2. Hero Section (`Certified Web Developer & Creative Designer`, `IMAYUSH2108`, `Canva Certified` & `freeCodeCamp Developer` badges, primary CTAs)
+  3. Official Certifications Section (interactive filtering + full-screen lightbox + live verification links)
+  4. Our Services Section (balanced 3×2 black-and-gold grid with direct WhatsApp enquiry links)
+  5. Official Visiting Card Section (full-screen zoom modal + download action)
+  6. Client Feedback & Add Your Review Section (5-star client cards + interactive rating form submitting directly via WhatsApp)
+  7. About My Work Section (profile portrait + `IMAYUSH2108` bio + `Ayush Raj — Web Developer & Creative Designer – Purnia, Bihar, India`)
+  8. Let’s Connect Section (black-and-gold studio `Instagram` and `WhatsApp` actions)
+  9. Footer (`AR` + `IMAYUSH2108`, tagline, structured contact & social rows, centered copyright bar)
+- `style.css` — Responsive dark-charcoal & metallic-gold styling (`#070709`, `#141418`, `#eab308`, `#f59e0b`, `#ffffff`).
+- `script.js` — Navbar scroll state, mobile menu toggle, certificate filters, full-screen lightbox modal, interactive star picker with WhatsApp review submission, and scroll-reveal animations.
+- `sitemap.xml` & `robots.txt` — Search indexing configuration pointing to `https://imayush2108.github.io/imayush2108/sitemap.xml`.
+- **SEO & Structured Data:** `<link rel="canonical">`, Google site verification tag, Open Graph & Twitter Card metadata, and valid JSON-LD `Person` schema targeting `Ayush Raj` and `IMAYUSH2108`.
+
+---
+
+## Official Website, Contact & Social Links
+
+- **Website:** https://imayush2108.github.io/imayush2108/
+- **Mobile / WhatsApp:** `+91 9508678989` — https://wa.me/919508678989
+- **Email:** `ayushshrivastava2108@gmail.com` — mailto:ayushshrivastava2108@gmail.com
+- **Instagram:** `imayush2108` — https://www.instagram.com/imayush2108/
+- **Facebook:** `imayush2108` — https://www.facebook.com/imayush2108/
+- **X:** `imayush2108` — https://x.com/imayush2108
+- **Threads:** `imayush2108` — https://www.threads.net/imayush2108
+- **Location:** Purnia, Bihar, India
+
+---
+
+© 2026 IMAYUSH2108. All Rights Reserved. Designed & Published on Google by Ayush Raj.
