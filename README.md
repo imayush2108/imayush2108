@@ -60,7 +60,7 @@ All 15 verified credentials are displayed in the **Official Certifications** sec
 ## Visiting Card & Visual Assets (`assets/`)
 
 - `assets/profile/ayush-raj-profile.png` — Official profile portrait displayed in the **About My Work** section and used for the browser tab favicon and Open Graph / Twitter social previews.
-- `assets/card/ayush-raj-visiting-card.png` — Official **IMAYUSH2108** visiting card showcased in the **Official Visiting Card** section with full-screen zoom modal and direct download support.
+- `assets/card/ayush-raj-visiting-card.png` — Official **IMAYUSH2108** visiting card showcased in the **Official Visiting Card** section with full-screen zoom modal and direct save/download support.
 - `assets/logo/ar-brand-logo.png` — Metallic gold **AR** brand emblem used in the navbar and footer.
 - `assets/logo/canva-badge-logo.png` — Canva Certified badge seal used in the hero credential pill.
 - `assets/certificates/` — High-resolution PNG certificates for Canva Design School and freeCodeCamp.
@@ -80,9 +80,9 @@ All 15 verified credentials are displayed in the **Official Certifications** sec
   8. Let’s Connect Section (black-and-gold studio `Instagram` and `WhatsApp` actions)
   9. Footer (`AR` + `IMAYUSH2108`, tagline, structured contact & social rows, centered copyright bar)
 - `style.css` — Responsive dark-charcoal & metallic-gold styling (`#070709`, `#141418`, `#eab308`, `#f59e0b`, `#ffffff`).
-- `script.js` — Navbar scroll state, mobile menu toggle, certificate filters, full-screen lightbox modal, interactive star picker with WhatsApp review submission, and scroll-reveal animations.
+- `script.js` — Navbar scroll state, mobile menu toggle, certificate filters, full-screen lightbox modal with image save & certificate verification actions, interactive star picker with WhatsApp review submission, and scroll-reveal animations.
 - `sitemap.xml` & `robots.txt` — Search indexing configuration pointing to `https://imayush2108.github.io/imayush2108/sitemap.xml`.
-- **SEO & Structured Data:** `<link rel="canonical">`, Google site verification tag, Open Graph & Twitter Card metadata, and valid JSON-LD `Person` schema targeting `Ayush Raj` and `IMAYUSH2108`.
+- **SEO & Structured Data:** `<link rel="canonical">`, Google site verification tag, Open Graph & Twitter Card metadata (`Portfolio of Ayush Raj (IMAYUSH2108) — Web Developer & Creative Designer in Purnia, Bihar. Web design, logos, posters, social media ads, video editing, and print essentials.`), and valid JSON-LD `Person` schema targeting `Ayush Raj` and `IMAYUSH2108`.
 
 ---
 

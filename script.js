@@ -77,6 +77,7 @@
   const lightboxTitle = document.getElementById("lightboxTitle");
   const lightboxMeta = document.getElementById("lightboxMeta");
   const lightboxFooter = document.getElementById("lightboxFooter");
+  const lightboxDownloadBtn = document.getElementById("lightboxDownloadBtn");
   const lightboxVerifyBtn = document.getElementById("lightboxVerifyBtn");
   const vcardTrigger = document.getElementById("vcardTrigger");
 
@@ -91,13 +92,21 @@
     lightboxTitle.textContent = title || "Preview";
     lightboxMeta.textContent = meta || "";
 
+    if (lightboxDownloadBtn) {
+      const cleanFileName = (src || "preview.png").split("/").pop().split("?")[0] || "preview.png";
+      lightboxDownloadBtn.href = src;
+      lightboxDownloadBtn.setAttribute("download", cleanFileName);
+    }
+
     if (url) {
       lightboxVerifyBtn.href = url;
-      lightboxFooter.removeAttribute("hidden");
+      lightboxVerifyBtn.removeAttribute("hidden");
     } else {
       lightboxVerifyBtn.href = "#";
-      lightboxFooter.setAttribute("hidden", "");
+      lightboxVerifyBtn.setAttribute("hidden", "");
     }
+
+    lightboxFooter.removeAttribute("hidden");
 
     lightbox.removeAttribute("hidden");
     document.body.style.overflow = "hidden";
