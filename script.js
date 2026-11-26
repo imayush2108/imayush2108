@@ -197,7 +197,7 @@
 
       const starsText = "★".repeat(selectedRating) + "☆".repeat(5 - selectedRating);
       const formattedMessage =
-        `Hello Ayush Raj (@imayush2108),\n\n` +
+        `Hello Ayush Raj (IMAYUSH2108),\n\n` +
         `Here is my review for your portfolio:\n` +
         `Name / Title: ${nameVal}\n` +
         `Rating: ${starsText} (${selectedRating}/5)\n` +
