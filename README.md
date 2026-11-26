@@ -36,24 +36,24 @@ Ayush Raj builds clean, fast, responsive websites and sharp visual creatives des
 
 All 15 verified credentials are displayed in the **Official Certifications** section with category filters, full-screen lightbox previews, and direct verification links:
 
-### Canva Design School (11)
-1. **Graphic Design Essentials** (Oct 16, 2026 | ID: `01d2da`) — [Verify](https://www.canva.com/design-school/certification-award/01d2da56-c680-44f1-b10c-9cca3529e046?referrer=course)
-2. **Canva Essentials** (Oct 16, 2026 | ID: `ea078f`) — [Verify](https://www.canva.com/design-school/certification-award/ea078f8f-85df-4548-b086-941762cc2225?referrer=course)
-3. **AI Essentials 2026** (Oct 16, 2026 | ID: `29b593`) — [Verify](https://www.canva.com/design-school/certification-award/29b593a0-4bd6-4cf2-946b-2fa84a7e70c2?referrer=course)
-4. **Marketing with Canva** (Oct 16, 2026 | ID: `b223b3`) — [Verify](https://www.canva.com/design-school/certification-award/b223b3a4-c279-4822-ba00-dcb6fb36d773?referrer=course)
-5. **Scale Creative Campaigns** (Oct 16, 2026 | ID: `b65980`) — [Verify](https://www.canva.com/design-school/certification-award/b6598005-625c-4ab4-bb3a-6c30539f71bc?referrer=course)
-6. **AI in the classroom** (Oct 17, 2026 | ID: `df9642`) — [Verify](https://www.canva.com/design-school/certification-award/df964282-688a-4134-96d8-5ca807765367?referrer=course)
-7. **Engage students with Canva** (Oct 16, 2026 | ID: `cf0098`) — [Verify](https://www.canva.com/design-school/certification-award/cf00981b-023e-4d17-a516-1d361e9fb80d?referrer=course)
-8. **AI skills for students** (Oct 16, 2026 | ID: `ca835b`) — [Verify](https://www.canva.com/design-school/certification-award/ca835be5-2261-495e-bab7-5b4fd9f00a9d?referrer=course)
-9. **Meet Canva's Visual Suite** (Nov 26, 2026 | ID: `4ec463`) — [Verify](https://www.canva.com/design-school/certification-award/4ec463f5-933a-4b2e-81f8-05e4343f6ae9?examCompleted=true)
-10. **Work smarter with AI** (Nov 26, 2026 | ID: `5066f8`) — [Verify](https://www.canva.com/design-school/certification-award/5066f80c-e620-4af6-be8c-d4c8c1cf38b5?examCompleted=true)
-11. **Create Scroll Stopping Content** (Nov 26, 2026 | ID: `d6a068`) — [Verify](https://www.canva.com/design-school/certification-award/d6a0689b-a6b2-4edd-9278-e60e88790f1a?referrer=course)
-
 ### freeCodeCamp (4)
-12. **Responsive Web Design** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/responsive-web-design-v9)
-13. **JavaScript Developer Certification** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/javascript-v9)
-14. **Front-End Development Libraries** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/front-end-development-libraries-v9)
-15. **Python Developer Certification** (Oct 18, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/python-v9)
+1. **Responsive Web Design** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/responsive-web-design-v9)
+2. **JavaScript** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/javascript-v9)
+3. **Front-End Development Libraries** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/front-end-development-libraries-v9)
+4. **Python** (Oct 18, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/python-v9)
+
+### Canva Design School (11)
+5. **Graphic Design Essentials** (Oct 16, 2026 | ID: `01d2da`) — [Verify](https://www.canva.com/design-school/certification-award/01d2da56-c680-44f1-b10c-9cca3529e046?referrer=course)
+6. **Canva Essentials** (Oct 16, 2026 | ID: `ea078f`) — [Verify](https://www.canva.com/design-school/certification-award/ea078f8f-85df-4548-b086-941762cc2225?referrer=course)
+7. **AI Essentials 2026** (Oct 16, 2026 | ID: `29b593`) — [Verify](https://www.canva.com/design-school/certification-award/29b593a0-4bd6-4cf2-946b-2fa84a7e70c2?referrer=course)
+8. **Marketing with Canva** (Oct 16, 2026 | ID: `b223b3`) — [Verify](https://www.canva.com/design-school/certification-award/b223b3a4-c279-4822-ba00-dcb6fb36d773?referrer=course)
+9. **Scale Creative Campaigns** (Oct 16, 2026 | ID: `b65980`) — [Verify](https://www.canva.com/design-school/certification-award/b6598005-625c-4ab4-bb3a-6c30539f71bc?referrer=course)
+10. **AI in the classroom** (Oct 17, 2026 | ID: `df9642`) — [Verify](https://www.canva.com/design-school/certification-award/df964282-688a-4134-96d8-5ca807765367?referrer=course)
+11. **Engage students with Canva** (Oct 16, 2026 | ID: `cf0098`) — [Verify](https://www.canva.com/design-school/certification-award/cf00981b-023e-4d17-a516-1d361e9fb80d?referrer=course)
+12. **AI skills for students** (Oct 16, 2026 | ID: `ca835b`) — [Verify](https://www.canva.com/design-school/certification-award/ca835be5-2261-495e-bab7-5b4fd9f00a9d?referrer=course)
+13. **Meet Canva's Visual Suite** (Nov 26, 2026 | ID: `4ec463`) — [Verify](https://www.canva.com/design-school/certification-award/4ec463f5-933a-4b2e-81f8-05e4343f6ae9?examCompleted=true)
+14. **Work smarter with AI** (Nov 26, 2026 | ID: `5066f8`) — [Verify](https://www.canva.com/design-school/certification-award/5066f80c-e620-4af6-be8c-d4c8c1cf38b5?examCompleted=true)
+15. **Create Scroll Stopping Content** (Nov 26, 2026 | ID: `d6a068`) — [Verify](https://www.canva.com/design-school/certification-award/d6a0689b-a6b2-4edd-9278-e60e88790f1a?referrer=course)
 
 ---
 
