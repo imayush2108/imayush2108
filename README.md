@@ -34,13 +34,23 @@ Ayush Raj builds clean, fast, responsive websites and sharp visual creatives des
 
 ## Official Certifications
 
-All 5 verified credentials are displayed in the **Official Certifications** section with category filters and full-screen lightbox previews:
+All 12 verified credentials are displayed in the **Official Certifications** section with category filters, full-screen lightbox previews, and direct verification links:
 
-1. **Graphic Design Essentials** — Canva Design School (Issued Oct 16, 2026 | Credential ID: `01d2da`)
-2. **Responsive Web Design** — freeCodeCamp Developer Certification (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/responsive-web-design-v9)
-3. **JavaScript Developer Certification** — freeCodeCamp Developer Certification (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/javascript-v9)
-4. **Front-End Development Libraries** — freeCodeCamp Developer Certification (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/front-end-development-libraries-v9)
-5. **Python Developer Certification** — freeCodeCamp Developer Certification (Oct 18, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/python-v9)
+### Canva Design School (8)
+1. **Graphic Design Essentials** (Oct 16, 2026 | ID: `01d2da`) — [Verify](https://www.canva.com/design-school/certification-award/01d2da56-c680-44f1-b10c-9cca3529e046?referrer=course)
+2. **Canva Essentials** (Oct 16, 2026 | ID: `ea078f`) — [Verify](https://www.canva.com/design-school/certification-award/ea078f8f-85df-4548-b086-941762cc2225?referrer=course)
+3. **AI Essentials 2026** (Oct 16, 2026 | ID: `29b593`) — [Verify](https://www.canva.com/design-school/certification-award/29b593a0-4bd6-4cf2-946b-2fa84a7e70c2?referrer=course)
+4. **Marketing with Canva** (Oct 16, 2026 | ID: `b223b3`) — [Verify](https://www.canva.com/design-school/certification-award/b223b3a4-c279-4822-ba00-dcb6fb36d773?referrer=course)
+5. **Scale Creative Campaigns** (Oct 16, 2026 | ID: `b65980`) — [Verify](https://www.canva.com/design-school/certification-award/b6598005-625c-4ab4-bb3a-6c30539f71bc?referrer=course)
+6. **AI in the classroom** (Oct 17, 2026 | ID: `df9642`) — [Verify](https://www.canva.com/design-school/certification-award/df964282-688a-4134-96d8-5ca807765367?referrer=course)
+7. **Engage students with Canva** (Oct 16, 2026 | ID: `cf0098`) — [Verify](https://www.canva.com/design-school/certification-award/cf00981b-023e-4d17-a516-1d361e9fb80d?referrer=course)
+8. **AI skills for students** (Oct 16, 2026 | ID: `ca835b`) — [Verify](https://www.canva.com/design-school/certification-award/ca835be5-2261-495e-bab7-5b4fd9f00a9d?referrer=course)
+
+### freeCodeCamp (4)
+9. **Responsive Web Design** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/responsive-web-design-v9)
+10. **JavaScript Developer Certification** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/javascript-v9)
+11. **Front-End Development Libraries** (Oct 17, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/front-end-development-libraries-v9)
+12. **Python Developer Certification** (Oct 18, 2026) — [Verify](https://freecodecamp.org/certification/imayush2108/python-v9)
 
 ---
 
